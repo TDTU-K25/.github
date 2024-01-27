@@ -2,6 +2,13 @@
 > Đây là nơi tổng hợp tài liệu của các môn học trong quá trình học tập của mình tại trường Đại học Tôn Đức Thắng.<br/>
 > Mình thuộc khóa **25**, ngành **Khoa học máy tính**, chương trình **Tiêu chuẩn**.
 
+<br/>
+
+> [!TIP]
+> Mọi người có thể liên hệ thoải mái với [mình](https://github.com/tung-lee) nếu có bất kỳ thắc mắc nào.
+
+<br/>
+
 > [!CAUTION]
 > Các bài báo cáo, mã nguồn chỉ sử dụng để tham khảo.
 
@@ -50,8 +57,3 @@
 [Xử lý dữ liệu lớn]()<br/>
 [Phát triển trò chơi]()<br/>
 [Blockchain và công nghệ sổ cái phân tán]()<br/>
-
-<br/>
-
-> [!TIP]
-> Mọi người có thể liên hệ thoải mái với mình nếu có bất kỳ thắc mắc nào.
